@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working for [TencentCloudBase](https://www.cloudbase.net/)
 - 🌱 I’m currently learning Architecture Design
-- 📫 How to reach me: [@xin-tan.com](https://xin-tan.com/)
+- 📫 How to reach me: [0x98k](https://0x98k.com/)
 - 💬 Ask me about Serverless/Cloud/Frontend
 
 [![](https://github-readme-stats.vercel.app/api?username=dongyuanxin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github-readme-stats.vercel.app/api?username=dongyuanxin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
