@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working for [TencentCloudBase](https://www.cloudbase.net/)
-- 🌱 I’m currently learning Architecture Design
-- 📫 How to reach me: [0x98k](https://0x98k.com/)
+- 🔭 I’m currently working for [Bytedance](https://douyinec.com/)
+- 🌱 I’m currently learning System & Algorithm Design
+- 📫 How to reach me: [yuanxin.me](https://yuanxin.me/)
 - 💬 Ask me about Serverless/Cloud/Frontend
 
 [![](https://github-readme-stats.vercel.app/api?username=dongyuanxin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github-readme-stats.vercel.app/api?username=dongyuanxin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
