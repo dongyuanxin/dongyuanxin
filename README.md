@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working for [Bytedance](https://douyinec.com/)
-- 🌱 I’m currently learning System & Algorithm Design
+- 🔭 I’m currently working for [antgroup](https://www.antgroup.com/en)
+- 🌱 I’m currently learning System Design
 - 📫 How to reach me: [yuanxin.me](https://yuanxin.me/)
 - 💬 Ask me about Serverless/Cloud/Frontend
 
